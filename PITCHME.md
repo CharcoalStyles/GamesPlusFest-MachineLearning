@@ -1,5 +1,5 @@
 
-# Teahing AI to play old games	
+# Teaching AI to play old games	
 ---
 
 ### Flux Design
@@ -9,5 +9,5 @@
 - Views: Render Data via React
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMjYzODY2XX0=
+eyJoaXN0b3J5IjpbMTc2MjczNzQwN119
 -->
