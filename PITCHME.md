@@ -2,13 +2,10 @@
 # Machine Learning
 ## Teaching AI to play old games	
 ---
-
 # Why?
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+---
+ - List i
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDk0NTY0MCwtMTkyOTk0NzEzNl19
+eyJoaXN0b3J5IjpbMTQ1OTY1OTcxLC0xOTI5OTQ3MTM2XX0=
 -->
