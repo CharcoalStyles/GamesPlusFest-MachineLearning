@@ -8,9 +8,8 @@
  - Games are great data sources
  - Fun
  - Do it for work
- - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDk2NjQ2MywtMjQ2NjkyMjMwLC0xOT
+eyJoaXN0b3J5IjpbLTMzNDY1NTc2MiwtNDA0OTY2NDYzLC0xOT
 I5OTQ3MTM2XX0=
 -->
