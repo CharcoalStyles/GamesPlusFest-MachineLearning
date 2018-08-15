@@ -4,12 +4,14 @@
 ---
 # Why?
 ---
+@ul
  - Machine Learning is "cool"
  - Games are great data sources
  - Fun
  - Do it for work
+@ulend
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjc5Njc2MV19
+eyJoaXN0b3J5IjpbLTU2MjM4MjI0MiwtODcyNzk2NzYxXX0=
 -->
