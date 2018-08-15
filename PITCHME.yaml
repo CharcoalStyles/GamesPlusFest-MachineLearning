@@ -3,7 +3,7 @@ layout : center-right
 
 # Look-and-Feel
 theme : moon
-highlight : ir-black
+highlight : Railscasts
 
 # Behavior
 transition : none
