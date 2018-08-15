@@ -4,9 +4,13 @@
 ---
 # Why?
 ---
+ - Machine Learning is "cool"
+ - Games are great data sources
+ - Fun
+ - Do it for work
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjY5MjIzMCwxNDU5NjU5NzEsLTE5Mj
-k5NDcxMzZdfQ==
+eyJoaXN0b3J5IjpbLTQwNDk2NjQ2MywtMjQ2NjkyMjMwLC0xOT
+I5OTQ3MTM2XX0=
 -->
