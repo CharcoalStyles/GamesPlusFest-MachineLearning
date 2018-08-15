@@ -12,9 +12,9 @@
 @ulend
 @snapend
 ---
-#Machine Learning Intro
+## Machine Learning Intro
 ![neuron](https://ujwlkarn.files.wordpress.com/2016/08/screen-shot-2016-08-09-at-3-42-21-am.png?w=1136&h=606)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEwODUzODQsLTM0NjUzMDQ5MywtNz
-I1MjEwMDI5LC01NjIzODIyNDIsLTg3Mjc5Njc2MV19
+eyJoaXN0b3J5IjpbLTY1OTg1NTY1OSwtMzQ2NTMwNDkzLC03Mj
+UyMTAwMjksLTU2MjM4MjI0MiwtODcyNzk2NzYxXX0=
 -->
